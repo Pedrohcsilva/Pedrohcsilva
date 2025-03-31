@@ -1,4 +1,4 @@
-<h1 align="center">Fala aí! Eu sou o Pedro Henrique Silva 👋</h1>
+<h1 align="center">Fala aí! Eu sou o Pedro Henrique Silva 👋 🫱🫲</h1>
 
 <p align="center">
   🎓 Estudante de Engenharia de Computação na <strong>UFU</strong><br>
